@@ -1,6 +1,6 @@
-1. 亚博官网下载安装本地makecode，验证hex文件加载。~今后可研究makecode安装包制作，软件打包。
+1. YB官网下载安装本地makecode，验证hex文件加载。~今后可研究makecode安装包制作，软件打包。
 2. 了解Math.map置于Tepyscript,验证JM9-270。~今后学习TepyScript
-3. 了解小喵科技能量模块扩展包模块分组。
+3. 了解XM能量模块扩展包模块分组。
 4. 整理扩展包代码，包括：super:bit,building:bit,cbit,sonar；
 5. 学习github
 6. 验证building:bit飞机等拼接。
